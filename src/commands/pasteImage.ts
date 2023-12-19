@@ -123,7 +123,7 @@ export class PasteImage extends Command {
       }
 
       const insertText = `![${parsed.name}](${
-        imageURI.startsWith('http') ? imageURI : '/' + image_absolute_path
+        imageURI.startsWith('http') ? imageURI : image_absolute_path
       })`;
 
       if (current.isEmpty) {
