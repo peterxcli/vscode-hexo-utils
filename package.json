@@ -2,14 +2,14 @@
   "name": "vscode-image-paster",
   "displayName": "Hexo Image Paster",
   "description": "vscode extension for hexo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "author": {
     "name": "Peter Lee",
     "email": "peterxcli@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/0x-peterxcli/vscode-hexo-utils/issues"
+    "url": "https://github.com/peterxcli/vscode-hexo-utils/issues"
   },
   "repository": {
     "type": "git",
